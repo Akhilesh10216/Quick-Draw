@@ -1,0 +1,18 @@
+body{
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+#sketches_to_be_drawn{
+    color: firebrick;
+}
+
+span{
+    font-size: 30px;
+}
+
+#timer{
+    float: right;
+    margin-right: 10px;
+}
